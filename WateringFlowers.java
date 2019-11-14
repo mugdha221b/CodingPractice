@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class NumberOfRefills{
+class WateringFlowers{
 	public static void main(String args[]) throws IOException
 	{
 		int[] plants = {2,4,5,1,2};
